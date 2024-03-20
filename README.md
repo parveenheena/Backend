@@ -27,7 +27,8 @@ To get started with the project, follow these steps:
 ```bash
 npm install
 
-3. Set up environment variables:
+
+### Set up environment variables:
 
 Create a .env file in the root directory.
 Define the following environment variables:
@@ -153,3 +154,7 @@ Method: GET
 Success Response:
 Status Code: 200
 Response Body: Array of order objects
+
+### Deployed Link
+
+https://backend-oxw8.onrender.com/
