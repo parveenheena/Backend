@@ -26,6 +26,7 @@ To get started with the project, follow these steps:
 
 ```bash
 npm install
+
 3. Set up environment variables:
 
 Create a .env file in the root directory.
