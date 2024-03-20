@@ -3,7 +3,7 @@ const { connection } = require("./Config/db");
 const { userRouter } = require("./Routes/userRouter");
 const { bookRouter } = require("./Routes/booksRouter");
 const { orderRouter } = require("./Routes/ordersRouter");
-require("dotenv").config()
+// require("dotenv").config()
 
 const app = express();
 
